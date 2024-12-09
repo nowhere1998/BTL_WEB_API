@@ -1,0 +1,62 @@
+﻿@model BTL_CALLWEB_API.Models.Account
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/Index.cshtml";
+}
+
+<h1>Details Account</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-6 form-control">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-6 form-control">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+        <dd class="col-sm-6 form-control">
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.Role)
+        </dt>
+        @if (Model.Role == 0)
+        {
+            <dd class="col-sm-6 form-control">
+                User
+            </dd>
+        }
+        else if (Model.Role == 1)
+        {
+            <dd class="col-sm-6 form-control">
+                Admin
+            </dd>
+        }
+        else if (Model.Role == 2)
+        {
+            <dd class="col-sm-6 form-control">
+                Deactive
+            </dd>
+        }
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+        <dd class="col-sm-6">
+            <img src="@ViewBag.Url@Model.Image" width="100px" height="100px"/>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

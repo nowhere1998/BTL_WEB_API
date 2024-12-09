@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\about_ceo_signature.png",
+      "PackagePath": "staticwebassets\\images\\about_ceo_signature.png"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\anh1.jpg",
+      "PackagePath": "staticwebassets\\images\\anh1.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\anh2.jpg",
+      "PackagePath": "staticwebassets\\images\\anh2.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\anh3.jpg",
+      "PackagePath": "staticwebassets\\images\\anh3.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\anh4.jpg",
+      "PackagePath": "staticwebassets\\images\\anh4.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\instageam_img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\instageam_img_4.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\menu_img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu_img_2.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\menu_img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\menu_img_4.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\menu_img_5.jpg",
+      "PackagePath": "staticwebassets\\images\\menu_img_5.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\menu_img_6.jpg",
+      "PackagePath": "staticwebassets\\images\\menu_img_6.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\menu_img_7.jpg",
+      "PackagePath": "staticwebassets\\images\\menu_img_7.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\menu_img_8.jpg",
+      "PackagePath": "staticwebassets\\images\\menu_img_8.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\popular_food_img_1.png",
+      "PackagePath": "staticwebassets\\images\\popular_food_img_1.png"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\popular_food_img_3.png",
+      "PackagePath": "staticwebassets\\images\\popular_food_img_3.png"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\popular_food_img_4.png",
+      "PackagePath": "staticwebassets\\images\\popular_food_img_4.png"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\popular_food_img_5.png",
+      "PackagePath": "staticwebassets\\images\\popular_food_img_5.png"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\recipes_img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\recipes_img_1.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\recipes_img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\recipes_img_2.jpg"
+    },
+    {
+      "Id": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_WEB_API\\wwwroot\\images\\testimonial_2_img_1.png",
+      "PackagePath": "staticwebassets\\images\\testimonial_2_img_1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BTL_WEB_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BTL_WEB_API.props",
+      "PackagePath": "build\\BTL_WEB_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BTL_WEB_API.props",
+      "PackagePath": "buildMultiTargeting\\BTL_WEB_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BTL_WEB_API.props",
+      "PackagePath": "buildTransitive\\BTL_WEB_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

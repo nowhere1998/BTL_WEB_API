@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aptech\\HK3\\DTDM\\BTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\views\\dishes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\views\\dishes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\views\\dishes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\views\\dishes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\views\\dishes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\views\\dishes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|d:\\aptech\\hk3\\dtdm\\btl\\btl_callweb_api\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1CDA2-720D-495C-ADB3-443B3C5CD1A9}|BTL_CALLWEB_API\\BTL_CALLWEB_API.csproj|solutionrelative:btl_callweb_api\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\DishesController.cs",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\DishesController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAIMAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:31:45.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Create.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Create.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Create.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:27:55.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Edit.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Edit.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Edit.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:25:56.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Index.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Index.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Dishes\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:25:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Program.cs",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Program.cs",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:17:29.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:02:37.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Views\\Cart\\Cart.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Views\\Cart\\Cart.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:02:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Views\\Home\\Register.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T06:45:10.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutHome.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Views\\Shared\\_LayoutHome.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Views\\Shared\\_LayoutHome.cshtml",
+              "ViewState": "AgIAABMDAAAAAAAAAAAAACYDAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T06:37:54.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T06:37:51.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAIwKAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:33:51.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:26:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:26:07.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:14:14.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:14:09.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "D:\\aptech\\HK3\\DTDM\\BTL\\BTL_CALLWEB_API\\Areas\\Admin\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "BTL_CALLWEB_API\\Areas\\Admin\\Views\\Accounts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T16:24:05.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
